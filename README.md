@@ -36,9 +36,6 @@ Highlights of the final model:
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Contact
-Created by [@https://www.linkedin.com/in/fazil-mohammed-4062711b2/] - feel free to contact me!
-
 
 <!-- Optional -->
 <!-- ## License -->
